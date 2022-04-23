@@ -170,4 +170,28 @@ __IMPORTANTE__: No está permitido utilizar los filtrados, ordenamientos y pagin
 - [ ] Al menos tener una ruta del backend con sus tests respectivos
 - [ ] Al menos tener un modelo de la base de datos con sus tests respectivos
 #   P I - P O K - M O N  
+ #   P I - P O K - M O N  
+ g i t  
+ i n i t  
+ g i t  
+ a d d  
+ .  
+ g i t  
+ c o m m i t  
+ - m  
+ f i r s t   c o m m i t  
+ g i t  
+ b r a n c h  
+ - M  
+ m a i n  
+ g i t  
+ r e m o t e  
+ a d d  
+ o r i g i n  
+ h t t p s : / / g i t h u b . c o m / g x w g o n z a / P I - P O K - M O N . g i t  
+ g i t  
+ p u s h  
+ - u  
+ o r i g i n  
+ m a i n  
  
