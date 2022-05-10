@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&display=swap');
+.backimg{
+    background: url("../images/pokebalfont.jpg");
+    background-repeat: no-repeat;
+    height: 1080px; 
+    width: 1920px;
+    max-width: 1920px;
+    max-height: 1080px;
+    display: flex;
+    flex-direction: row;
+    padding-top: 1rem;
+}
+.title{
+    font-family: 'Orelega One', cursive;
+    font-size: 3rem;
+    padding-left: 15rem;
+    
+    font-family: 'Orelega One', cursive;
+}
+.image{
+    padding-left: 5rem;
+    padding-top: 12rem;
+    max-height: 850px;
+    max-width: auto;
+}
+.forms{
+    display: flex;
+    flex-direction: column ;
+    justify-content: space-evenly;
+    align-items: center;
+    padding-left: 12rem;
+    font-family: 'Orelega One', cursive;
+}
+.pstyle{
+    padding-left: 12rem;
+    padding-top: 8rem;
+    font-family: 'Orelega One', cursive;
+}
+.inputs{
+    font-family: 'Orelega One', cursive;
+    border-radius: 5rem;
+}
+.buttom{
+    font-family: 'Orelega One', cursive;
+    border-radius: 5rem;
+    font-size: 1.5rem;
+}
+.buttom:hover{
+    color:azure;
+    background-color: black;
+}
+.texttt{
+    list-style: none;
+}
+.danger{
+    font-family: 'Orelega One', cursive;
+    color: red;
+}

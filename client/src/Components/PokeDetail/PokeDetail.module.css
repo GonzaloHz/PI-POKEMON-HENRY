@@ -1,0 +1,75 @@
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&display=swap');
+.bgprobando{
+    background-color: #faf8f8;
+}
+.fondo{
+    /* background-image: url("https://images3.alphacoders.com/975/975819.jpg");  */
+    background-image: url("../images/975819.jpg");
+    background-position: 90% 50%;
+    /* background-size: 100% 100%; */
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 1000px;
+    width: auto;
+    max-height: 1080px;
+    max-width: 1920px;
+    font-family: 'Orelega One', cursive;
+}
+.statss{
+    display: flex;
+    flex-direction: row-reverse;
+    text-align: center;
+    justify-content: left;
+}
+.statcenter{
+    padding-left: 18.5rem;
+    padding-right: 18.5rem;
+    background-color : whitesmoke;
+    opacity: 0.5;
+    /* background-size: contain; */
+    border-radius: 2rem;
+    border:solid black 5px;
+}h3{
+    padding-bottom: 2rem;
+    display: flex;
+}
+.statph{
+    padding-left: 5rem;
+    width: 520px;
+    height: 520px;
+    max-height: 520px;
+    max-width: auto;
+}
+.buttoms{
+    display: flex;
+    flex-direction: row;
+    justify-content: left ;
+    padding-left: 18rem;
+}
+.buttom1{
+    padding-left: 1rem;
+    padding-right: 1rem;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-family: 'Orelega One', cursive;
+    border-radius: 1rem;
+    background-color: rgba(245, 245, 220, 0.76);
+    color:black;
+    cursor:pointer;
+}
+.buttom1:hover{
+    background-color: black;
+    color:rgba(245, 245, 220, 0.76);
+}
+.title{
+    font-size: 3rem;
+    font-family: 'Orelega One', cursive;
+    padding-bottom: 3rem;
+    padding-top: 3rem;
+}
+.name{
+    font-size: 2rem;
+    text-align: center;
+    justify-content: center;
+    padding-left: 5rem;
+}

@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&display=swap');
+.text{
+    /* text-decoration: none; */
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    font-family: 'Orelega One', cursive;
+    font-size: 2em;
+    justify-content: center;
+}
+.page{
+    width:20px;
+    margin:8px;
+    padding:10;
+    border:0.5px solid black;
+    background-color: whitesmoke;
+    border-radius: 1rem;
+    cursor: pointer;
+}
+.page:hover{
+    background-color: rgba(20,84,140,255);
+    color:white;
+    border: none;
+}

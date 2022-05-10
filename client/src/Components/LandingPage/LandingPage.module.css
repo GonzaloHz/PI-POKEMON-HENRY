@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+.bgimage{
+    background-image: url("https://images2.alphacoders.com/116/thumb-1920-1160159.png");
+    background-position: 50% 50%;
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    height: 1080px;
+    width: 100%;
+} 
+.title{
+    height: auto;
+    width: 33%;
+    padding-top: 11rem;
+    padding-bottom: 1rem;
+}
+.frase{
+    font-size: x-large;
+    font-family: 'Russo One', sans-serif;
+    color:white;
+    text-shadow: 0 0 5px blue;
+}

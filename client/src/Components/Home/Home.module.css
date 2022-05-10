@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&display=swap');
+.background{
+    background-color: rgba(20,84,140,255);
+}
+.textStyle{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    font-family: 'Orelega One', cursive;
+    font-size: 35px;
+    background-color: rgba(157,13,13,255);
+}
+.title{
+    height: 11%;
+    width: 15%;
+    padding-top: 5rem;
+    padding-bottom: 1rem;
+}
+.lists{
+    padding-top: 8rem;
+    text-shadow: 0 0 2px solid black;
+    color: darkgray;
+    text-decoration: none;
+}
+.searchBar{
+    padding-top: 8rem;
+}
+.input1{
+    font-size: x-large;
+    border-top-left-radius: 1rem;
+    border-bottom-left-radius: 1rem;
+    background-color: whitesmoke;
+    text-align: center;
+    color: darkgray;  
+    font-family: 'Orelega One', cursive;
+}
+.input2{
+    font-size: x-large;
+    border-top-right-radius: 1rem;
+    border-bottom-right-radius: 1rem;
+    background-color: darkgray;  
+    color: white;
+    font-family: 'Orelega One', cursive;
+}
+.input2:hover{
+    background-color: white;
+    color:darkgray;
+    cursor: pointer;
+}
+.filters{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-evenly;
+    font-size: 2rem;
+}select{
+    border-radius: 1rem;
+    font-size: 1.5rem;
+    background-color: white;
+    color: black;
+    font-family: 'Orelega One', cursive;
+    padding-top: 0px;
+}
+.orderP{
+    display: flex;
+    flex-direction: row;
+    /* margin-left: 180px;  */
+    flex-wrap: wrap;
+    width: 100%;
+    justify-items: center;
+    justify-content: space-evenly;
+}
+.loader{
+    display: flex;
+    text-align: center;
+    flex-direction: column;
+    font-family: 'Orelega One', cursive;
+    font-size: 3.5rem;
+    color: white;
+    
+}
+

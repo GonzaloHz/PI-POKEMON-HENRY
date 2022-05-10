@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&display=swap');
+.div{
+    background-color: rgba(255, 0, 0, 0.678);
+    border-radius: 5rem;
+    margin-bottom: 5rem;
+    background-image: url("https://cdn.streamloots.com/uploads/5e553c848b251c002d741498/edf10688-62e5-4a36-b4a0-e78360df107e.png");
+    background-size: 40rem;
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.name{
+    display: flex;
+    justify-content: center;
+    font-family: 'Orelega One', cursive;
+}
+.idStyle{
+    display: flex;
+    padding-left: 4rem;
+    font-family: 'Orelega One', cursive;
+    
+}
+.firstDiv{
+    background-color: white;
+    padding-top: 2rem;
+    border-top-left-radius: 4.9rem;
+    border-top-right-radius: 4.9rem;
+    text-shadow: 50%;
+}
+.thirdDiv{
+    background-color: white;
+    padding-bottom: 2rem;
+    border-bottom-left-radius: 4.9rem;
+    border-bottom-right-radius: 4.9rem;
+    text-shadow: 50%;
+    font-family: 'Orelega One', cursive;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.forthDiv{
+    display: flex;
+    justify-content: center;
+}
+.photto{
+    height: 520px;
+    width: 520px;
+    overflow: hidden;
+}
+.photto:hover{
+    -webkit-transform: scale(1.5);
+    transform: scale(1.25);
+    transition: all 0.2s ease-in-out;
+}

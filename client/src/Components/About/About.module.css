@@ -1,0 +1,76 @@
+@import url('https://fonts.googleapis.com/css2?family=Orelega+One&display=swap');
+.backgroudimg{
+    background-image: url("../images/143snorlax1600x1200.jpg");
+    object-fit: contain;
+    height: 1500px;
+    width: auto;
+    max-width: 10180px;
+    background-repeat: no-repeat;
+    background-color: rgba(81,140,172,255);
+    background-position: 100% 100%;
+    font-family: 'Orelega One', cursive;
+    font-size: x-large;
+}
+.texth1{
+    margin-top: 3rem;
+}
+.textp{
+    margin-top: 3rem;
+}
+.pkc{
+    background-image: url("https://c.tenor.com/rbx3ph5SLRUAAAAj/pikachu-pokemon.gif");
+    height: 179px;
+    width: 200px;
+    background-repeat: no-repeat;
+}
+.hotmaillogo{
+    height: 1300px;
+    width: auto;
+    object-fit: cover;
+    max-height: 100px;
+    max-width: 100px;
+}
+.linkedinlogo{
+    height: 600px;
+    width: auto;
+    max-height: 100px;
+    max-width: auto;
+    padding-left: 5rem;
+    padding-right: 5rem;
+}
+.githublogo{
+    height: 600px;
+    width: auto;
+    max-height: 100px;
+    max-width: auto;
+    
+}
+.orderdiv{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.buttom{
+    display: flex;
+    justify-content: left;
+    background-color:beige;
+    font-family: 'Orelega One', cursive;
+    border: solid  rgba(81,140,172,255);
+    color: black;
+    height: 50px;
+    width: 100px;
+    
+}
+.buttom:hover{
+    border:  1px solid aliceblue;
+    background-color: rgba(81,140,172,255);
+    color: aliceblue;
+}
+
+.buttomdiv{
+    padding-top: 3rem;
+    padding-left: 15rem;
+}
+.pkcdiv{
+    padding-left: 15rem;
+}
